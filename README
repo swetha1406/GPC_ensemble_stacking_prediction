@@ -1,1 +1,44 @@
 # GPC_ensemble_stacking_prediction
+It consists of amount of materials and parameters used for 820 geopolymer mixes taken from the below references with respect to 13 ingredients which plays a major role in the prediction of compressive strength of concrete. The relationship between different material compositions and processing conditions is studied using this dataset. The variables used for the study are as follows:
+Quantity of Fly ash (FA) (kg/m3)
+Quantity of Coarse Aggregate (CA) (kg/m3)
+Quantity of Fine Aggregate (F) (kg/m3)
+Quantity of Slag (GGBFS) (kg/m3)
+Sodium Hydroxide (NaOH) content in the mix (SH) (kg/m3)
+Molarity of NaOH solution in the mix (M)
+Sodium Silicate (Na2SiO3) Content (SS) (kg/m3)
+Na2SiO3 - NaOH (SS/SH) ratio
+Alkaline to Binder Content Ratio in the mix (AB)
+Age of mix in days (D)
+Curing Temperature (T) (oC).
+Amount of Extra Water (EW)  (kg/m3)
+Superplasticizer content (SP)  (kg/m3)
+REFERENCES
+A. Wardhono, C. Gunasekara, D. W. Law, and S. Setunge, “Comparison of long term performance between alkali activated slag and fly ash geopolymer concretes,” Constr Build Mater, vol. 143, pp. 272–279, Jul. 2017, doi: 10.1016/j.conbuildmat.2017.03.153.
+G. Nagalia, Y. Park, A. Abolmaali, and P. Aswath, “Compressive Strength and Microstructural Properties of Fly Ash–Based Geopolymer Concrete,” Journal of Materials in Civil Engineering, vol. 28, no. 12, Dec. 2016, doi: 10.1061/(asce)mt.1943 5533.0001656.
+P. Nuaklong, V. Sata, and P. Chindaprasirt, “Influence of recycled aggregate on fly ash geopolymer concrete properties,” J Clean Prod, vol. 112, pp. 2300–2307, 2016, doi: 10.1016/j.jclepro.2015.10.109.
+F. Kazemian and A. Hassani, “Exploring mechanical and fracture properties in geopolymer concrete with ternary precursor waste materials through laboratory investigations and statistical analysis,” Journal of Building Engineering, vol. 95, Oct. 2024, doi: 10.1016/j.jobe.2024.110294.
+F. N. Okoye, J. Durgaprasad, and N. B. Singh, “Mechanical properties of alkali activated flyash/Kaolin based geopolymer concrete,” Constr Build Mater, vol. 98, pp. 685–691, Nov. 2015, doi: 10.1016/j.conbuildmat.2015.08.009.
+M. A. Faris et al., “Comparison of hook and straight steel fibers addition on malaysian fly ash-based geopolymer  concrete on the slump, density, water absorption and mechanical properties,” Materials, vol. 14, no. 5, Mar. 2021, doi:10.3390/ma14051310.
+C. Luan et al., “Practical prediction models of tensile strength and reinforcement-concrete bond strength of low-calcium fly ash geopolymer concrete,” Polymers (Basel), vol. 13, no. 6, Mar. 2021, doi: 10.3390/polym13060875. 25/27
+D. Bondar, S. Nanukuttan, J. L. Provis, and M. Soutsos, “Efficient mix design of alkali activated slag concretes based on packing fraction of ingredients and paste thickness,” J Clean Prod, vol. 218, pp. 438–449, May 2019, doi: 10.1016/j.jclepro.2019.01.332.
+T. Phoo-Ngernkham, C. Phiangphimai, N. Damrongwiriyanupap, S. Hanjitsuwan, J. Thumrongvut, and P. Chindaprasirt, “A Mix Design Procedure for Alkali-Activated High-Calcium Fly Ash Concrete Cured at Ambient Temperature,” Advances in Materials Science and Engineering, vol. 2018, 2018, doi: 10.1155/2018/2460403.
+M. Sandanayake, C. Gunasekara, D. Law, G. Zhang, S. Setunge, and D. Wanijuru, “Sustainable criterion selection framework for green building materials– An optimisation based study of fly-ash Geopolymer concrete,” Sustainable Materials and Technologies, vol. 25, Sep. 2020, doi: 10.1016/j.susmat.2020.e00178.
+A. Rafeet, R. Vinai, M. Soutsos, and W. Sha, “Guidelines for mix proportioning of fly ash/GGBS based alkali activated concretes,” Constr Build Mater, vol. 147, pp. 130–142, Aug. 2017, doi: 10.1016/j.conbuildmat.2017.04.036.
+Z. Zhang et al., “The Influence of Fly Ash and Slag on the Mechanical Properties of Geopolymer Concrete,” Buildings, vol. 14, no. 9, p. 2720, Aug. 2024, doi: 10.3390/buildings14092720.
+Y. S. N. Kishore, S. G. D. Nadimpalli, A. K. Potnuru, J. Vemuri, and M. A. Khan, “Statistical analysis of sustainable geopolymer concrete,” Mater Today Proc, vol. 61, pp. 212–223, Jan. 2022, doi: 10.1016/j.matpr.2021.08.129.
+B. Singh Rajput, S. Pratap Singh Rajawat, and G. Jain, “Effect of curing conditions on the compressive strength of fly ash-based geopolymer concrete,” Mater Today Proc, Aug. 2023, doi: 10.1016/j.matpr.2023.07.359.
+B. Gopalakrishna and P. Dinakar, “Mix design development of fly ash-GGBS based recycled aggregate geopolymer concrete,” Journal of Building Engineering, vol. 63, Jan. 2023, doi: 10.1016/j.jobe.2022.105551.
+A. A. Khalaf, K. Kopecskó, and I. Merta, “Prediction of the Compressive Strength of Fly Ash Geopolymer Concrete by an Optimised Neural Network Model,” Polymers (Basel), vol. 14, no. 7, Apr. 2022, doi: 10.3390/polym14071423.
+N. K. Lee and H. K. Lee, “Setting and mechanical properties of alkali-activated fly ash/slag concrete manufactured at room temperature,” Constr Build Mater, vol. 47, pp. 1201–1209, 2013, doi: 10.1016/j.conbuildmat.2013.05.107.
+C. S. Thunuguntla and T. D. Gunneswara Rao, “Mix Design Procedure for Alkali-Activated Slag Concrete Using Particle Packing Theory,” Journal of Materials in Civil Engineering, vol. 30, no. 6, Jun. 2018, doi: 10.1061/(asce)mt.1943 5533.0002296.
+S. Demie, M. F. Nuruddin, and N. Shafiq, “Effects of micro-structure characteristics of interfacial transition zone on the compressive strength of self-compacting geopolymer concrete,” Constr Build Mater, vol. 41, pp. 91–98, 2013, doi:10.1016/j.conbuildmat.2012.11.067.
+N. V. K and D. L. V. Babu, “Assessing the performance of molarity and alkaline activator ratio on engineering properties of self-compacting alkaline activated concrete at ambient temperature,” Journal of Building Engineering, vol. 20, pp. 137–155, Nov. 2018, doi: 10.1016/j.jobe.2018.07.005.
+M.S. Reddy, P. Dinakar, and B. H. Rao, “Mix design development of fly ash and ground granulated blast furnace slag based geopolymer concrete,” Journal of Building Engineering, vol. 20, pp. 712–722, Nov. 2018, doi: 10.1016/j.jobe.2018.09.010.
+P. Nath and P. K. Sarker, “Effect of GGBFS on setting, workability and early strength properties of fly ash geopolymer concrete cured in ambient condition,” Constr Build Mater, vol. 66, pp. 163–171, Sep. 2014, doi:10.1016/j.conbuildmat.2014.05.080.
+P. K. Sarker, R. Haque, and K. V. Ramgolam, “Fracture behaviour of heat cured fly ash based geopolymer concrete,” Mater Des, vol. 44, pp. 580–586, 2013, doi: 10.1016/j.matdes.2012.08.005.G.
+Fang, W.K.Ho,W.Tu,andM.Zhang,“Workabilityandmechanicalpropertiesofalkali-activated fly ash-slag concrete cured at ambient temperature,” Constr Build Mater, vol. 172, pp. 476–487, May 2018, doi: 10.1016/j.conbuildmat.2018.04.008.
+C. Gunasekera, S. Setunge, and D. W. Law, “Correlations between Mechanical Properties of Low-Calcium Fly Ash Geopolymer Concretes,” 2017, doi: 10.1061/(ASCE).
+P. Topark-Ngarm, P. Chindaprasirt, and V. Sata, “Setting Time, Strength, and Bond of High-Calcium Fly Ash Geopolymer Concrete,” Journal of Materials in Civil Engineering, vol. 27, no. 7, Jul. 2015, doi: 10.1061/(asce)mt.1943-5533.0001157.H. K. Shehab, A. S. Eisa, and A. M. Wahba, “Mechanical properties of fly ash based geopolymer concrete with full and partial cement replacement,” Constr Build Mater, vol. 126, pp. 560–565, Nov. 2016, doi: 10.1016/j.conbuildmat.2016.09.059.
+M. Olivia and H. Nikraz, “Properties of fly ash geopolymer concrete designed by Taguchi method,” Mater Des, vol. 36, pp.  191–198, Apr. 2012, doi: 10.1016/j.matdes.2011.10.036. 26/27
+P. S. Deb, P. Nath, and P. K. Sarker, “The effects of ground granulated blast-furnace slag blending with fly ash and activator content on the workability and strength properties of geopolymer concrete cured at ambient temperature,” Mater Des, vol.  62, pp. 32–39, 2014, doi: 10.1016/j.matdes.2014.05.001.
